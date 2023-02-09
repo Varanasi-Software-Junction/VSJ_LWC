@@ -4,7 +4,7 @@ export default class MyFirstWebComponent extends LightningElement {
     contacts = [
         {
             Id: 1,
-            Name: 'Amy Taylor',
+            Name: 'Champak Roy',
             Title: 'VP of Engineering',
         },
         {
